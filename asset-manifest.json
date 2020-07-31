@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CristyTarantino/react-quote-machine/static/css/main.8c8c33ed.chunk.css",
+    "main.js": "/CristyTarantino/react-quote-machine/static/js/main.33484db8.chunk.js",
+    "main.js.map": "/CristyTarantino/react-quote-machine/static/js/main.33484db8.chunk.js.map",
+    "runtime-main.js": "/CristyTarantino/react-quote-machine/static/js/runtime-main.d9b8506b.js",
+    "runtime-main.js.map": "/CristyTarantino/react-quote-machine/static/js/runtime-main.d9b8506b.js.map",
+    "static/js/2.d54fdd7e.chunk.js": "/CristyTarantino/react-quote-machine/static/js/2.d54fdd7e.chunk.js",
+    "static/js/2.d54fdd7e.chunk.js.map": "/CristyTarantino/react-quote-machine/static/js/2.d54fdd7e.chunk.js.map",
+    "index.html": "/CristyTarantino/react-quote-machine/index.html",
+    "precache-manifest.20c51e511ee33e2caad1353476f13f8d.js": "/CristyTarantino/react-quote-machine/precache-manifest.20c51e511ee33e2caad1353476f13f8d.js",
+    "service-worker.js": "/CristyTarantino/react-quote-machine/service-worker.js",
+    "static/css/main.8c8c33ed.chunk.css.map": "/CristyTarantino/react-quote-machine/static/css/main.8c8c33ed.chunk.css.map",
+    "static/js/2.d54fdd7e.chunk.js.LICENSE.txt": "/CristyTarantino/react-quote-machine/static/js/2.d54fdd7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9b8506b.js",
+    "static/js/2.d54fdd7e.chunk.js",
+    "static/css/main.8c8c33ed.chunk.css",
+    "static/js/main.33484db8.chunk.js"
+  ]
+}
